@@ -1,1 +1,1 @@
-# odin-ruby-linkedlist
+Project 10 for The Odin Project.  
